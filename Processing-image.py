@@ -7,7 +7,7 @@ draw = ImageDraw.Draw(im)
 
 font = ImageFont.truetype("msyh.ttc", 15) 
 
-draw.text((76,43), ('Test rack'), fill='#0000ff', font=font)
+draw.text((76,44), ('Test rack'), fill='#0000ff', font=font)
 draw.text((246,43), ('A0'), fill='#0000ff', font=font)
 draw.text((76,70), ('TWS1'), fill='#0000ff', font=font)
 draw.text((76,104), ('EDF-ZJ-PZ-3306'), fill='#0000ff', font=font)
