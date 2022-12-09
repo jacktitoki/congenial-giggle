@@ -1,5 +1,5 @@
 from PIL import Image, ImageDraw, ImageFont
-
+inport time
 im = Image.open('source.png')
 
 
